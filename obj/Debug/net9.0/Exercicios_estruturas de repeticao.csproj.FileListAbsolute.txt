@@ -1,0 +1,14 @@
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\bin\Debug\net9.0\Exercicios_estruturas de repeticao.exe
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\bin\Debug\net9.0\Exercicios_estruturas de repeticao.deps.json
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\bin\Debug\net9.0\Exercicios_estruturas de repeticao.runtimeconfig.json
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\bin\Debug\net9.0\Exercicios_estruturas de repeticao.dll
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\bin\Debug\net9.0\Exercicios_estruturas de repeticao.pdb
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\obj\Debug\net9.0\Exercicios_estruturas de repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\obj\Debug\net9.0\Exercicios_estruturas de repeticao.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\obj\Debug\net9.0\Exercicios_estruturas de repeticao.AssemblyInfo.cs
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\obj\Debug\net9.0\Exercicios_estruturas de repeticao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\obj\Debug\net9.0\Exercicios_estruturas de repeticao.dll
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\obj\Debug\net9.0\refint\Exercicios_estruturas de repeticao.dll
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\obj\Debug\net9.0\Exercicios_estruturas de repeticao.pdb
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\obj\Debug\net9.0\Exercicios_estruturas de repeticao.genruntimeconfig.cache
+C:\Users\fic\Documents\CONDICOES\EstruturaRepeticao\Exercicios_estruturas de repeticao\Exercicios_estruturas de repeticao\obj\Debug\net9.0\ref\Exercicios_estruturas de repeticao.dll
