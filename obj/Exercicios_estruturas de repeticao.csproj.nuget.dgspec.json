@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Documents\\CONDICOES\\EstruturaRepeticao\\Exercicios_estruturas de repeticao\\Exercicios_estruturas de repeticao\\Exercicios_estruturas de repeticao.csproj": {}
+    "C:\\Users\\fic\\Documents\\git push\\Exercicios_estruturas de repeticao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Documents\\CONDICOES\\EstruturaRepeticao\\Exercicios_estruturas de repeticao\\Exercicios_estruturas de repeticao\\Exercicios_estruturas de repeticao.csproj": {
+    "C:\\Users\\fic\\Documents\\git push\\Exercicios_estruturas de repeticao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Documents\\CONDICOES\\EstruturaRepeticao\\Exercicios_estruturas de repeticao\\Exercicios_estruturas de repeticao\\Exercicios_estruturas de repeticao.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Documents\\git push\\Exercicios_estruturas de repeticao.csproj",
         "projectName": "Exercicios_estruturas de repeticao",
-        "projectPath": "C:\\Users\\fic\\Documents\\CONDICOES\\EstruturaRepeticao\\Exercicios_estruturas de repeticao\\Exercicios_estruturas de repeticao\\Exercicios_estruturas de repeticao.csproj",
+        "projectPath": "C:\\Users\\fic\\Documents\\git push\\Exercicios_estruturas de repeticao.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Documents\\CONDICOES\\EstruturaRepeticao\\Exercicios_estruturas de repeticao\\Exercicios_estruturas de repeticao\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Documents\\git push\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
